@@ -28,7 +28,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 O Likthree DevLinks é um agregador de links para usar como cartão de visitas online.
 
-- [Acesse o projeto finalizado online](https://maykbrito.github.io/devlinks)
+- [Acesse o projeto finalizado online](https://thiagosantana083.github.io/linktreethiago.io/)
 
 ## 🔖 Layout
 
